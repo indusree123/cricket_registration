@@ -15,13 +15,7 @@ A simple web application for managing cricket registration. This project provide
   - HTML5
   - CSS3
   - JavaScript
-
-- **Backend**:
-  - Python
-  - Flask
-
-- **Database**:
-  - SQLite (or specify the database used)
+  - PHP
 
 ## Installation
 
